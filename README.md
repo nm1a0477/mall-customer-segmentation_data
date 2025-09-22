@@ -17,8 +17,9 @@ Clean and preprocess the Mall Customer Segmentation dataset to prepare it for an
 - Saved cleaned dataset as CSV
 
 ##  Files Included
-- `mall_segmentation.ipynb`: Code for cleaning
-- `mall_customers_cleaned.csv`: Final cleaned dataset
+- `mall_customwr_segmentation_data1.ipynb`: Code for cleaning
+- `Mall_Customers.csv`: Reference dataset
+- `cleaned_data.csv`: Final cleaned dataset
 - `README.md`: Summary of the task
 
 ##  Learnings
