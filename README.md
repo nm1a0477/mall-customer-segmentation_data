@@ -1,4 +1,4 @@
-# mall-customer-segmentation_data
+# mall-customer-segmentation-data
 Data cleaning and preprocessing of Mall Customer Segmentation dataset
 
 # 🛍️ Mall Customer Segmentation – Task 1
